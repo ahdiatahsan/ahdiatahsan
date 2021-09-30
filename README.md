@@ -15,5 +15,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahdiatahsan&show_icons=true&theme=tokyonight" alt="ahdiatahsan" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahdiatahsan&repo=github-readme-stats" alt="ahdiatahsan" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdiatahsan&layout=compact&theme=tokyonight" alt="ahdiatahsan" />
 
