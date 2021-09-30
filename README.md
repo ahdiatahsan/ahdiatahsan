@@ -8,13 +8,3 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahdiatahsan.ahdiatahsan)
-
-<br />
-
-<p align="center">
-📈 my github stats
-</p>
-
-<p align="center"><img width="50%" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-
