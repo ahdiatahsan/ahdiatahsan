@@ -13,7 +13,6 @@
 
 📈 my github stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahdiatahsan&show_icons=true&theme=tokyonight" alt="ahdiatahsan" />
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdiatahsan&layout=compact&theme=tokyonight" alt="ahdiatahsan" />
 
