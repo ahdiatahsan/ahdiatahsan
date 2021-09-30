@@ -1,16 +1,16 @@
-### Hi there 👋
+### hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**ahdiatahsan/ahdiatahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Ahdiat Ahsan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Ahdiat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=ahdiatahsan.ahdiatahsan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+📈 my github stats
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ahdiatahsan&show_icons=true&theme=gotham" alt="ahdiatahsan" />
