@@ -1,4 +1,4 @@
-hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> .
+hello.
 
 <!-- <a href="https://twitter.com/ahdiaaat">
   <img align="left" alt="Ahdiat Ahsan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
